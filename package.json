@@ -1,0 +1,12 @@
+{
+  "name": "expressjs-webserver",
+  "version": "1.0.0",
+  "description": "Assignment 9",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ethan",
+  "license": "ISC"
+}
